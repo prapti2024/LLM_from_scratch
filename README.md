@@ -71,11 +71,8 @@ Yoe milde sape spank bores.
 
 ## 📚 Inspiration
 
-Karpathy’s nanoGPT
-
-Jay Alammar’s Transformer visualizations
-
-Andrej Karpathy’s GPT lectures and blog posts
+Sebastian Raschka
+(Build a LLM from Scratch)
 
 ---
 
