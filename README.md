@@ -65,8 +65,9 @@ The model is trained on a small text corpus using character-level prediction. He
 ```css
 Whathasth be thas areson all,
 Yoe milde sape spank bores.
-(Yes, it’s gibberish—but it demonstrates learned patterns of structure and punctuation!)
 ```
+(Yes, it’s gibberish, but it demonstrates learned patterns of structure and punctuation!)
+
 ---
 
 ## 📚 Inspiration
